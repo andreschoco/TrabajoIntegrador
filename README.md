@@ -6,4 +6,6 @@
 - En el grupo somos 5 integrantes, Carlos A Castro, Jessica Fonseca, Alvaro Martin Mesel, Lorena Monsalve, Santiago Pagano.
 
 -Alvaro Martin Mesel: Tengo 26 años estudie diseño industrial, trabajo en un taller de carpinteria y soy de Argentina. Estoy haciendo este curso principalmente para meterme al mercado laboral ya que la situacion del pais complica los precios de las maderas y complican las cosas. Si bien se que me es mas sencillo el front-end por mi formacion, sin embargo me gustaria irme por el lado logico de back.
+
+
 -![LogoKhaloStore-03](https://user-images.githubusercontent.com/111902531/187003396-bbc28ffe-2b0c-45d5-b23d-595fbde61bd7.png)
